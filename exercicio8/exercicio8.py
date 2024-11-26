@@ -28,7 +28,7 @@ def lerArquivo():
                     temperaturas_por_mes[id_mes] = []
                 temperaturas_por_mes[id_mes].append(temperatura)
 
-        print("Média de temperatura por mês:")
+        print("Média de temperatura por mês\n")
         for id_mes, temperaturas in temperaturas_por_mes.items():
             media = sum(temperaturas) / len(temperaturas)
             print(f"Mês {id_mes}: {media:.2f}°C")
