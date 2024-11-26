@@ -1,1 +1,1 @@
-# Kaique Ferreira, Joao Pedro, Gabriel Moreira
+# Kaique Bernardes Ferreira, João Pedro da Cunha Machado, Gabriel Moreira Gonçalves
